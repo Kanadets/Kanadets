@@ -32,7 +32,7 @@ Full stack engineer with a focus on building things that scale and actually feel
 🏎️ **F1** - strategy nerd, lap time nerd, everything nerd  
 🎮 **Game dev** - tinkering with my own games when I'm not playing them  
 🐹 **Golang** - hobby language, slowly taking over my weekends  
-☕ **Coffee** -****  non-negotiable
+☕ **Coffee** - non-negotiable
 
 ---
 
