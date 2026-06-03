@@ -22,16 +22,16 @@ Full stack engineer with a focus on building things that scale and actually feel
 
 `React` `TypeScript` `Next.js` `Node.js` `Svelte` `Mapbox`  
 `Python` `PostgreSQL` `MongoDB` `Firebase` `GCP` `Docker` `CI/CD`  
-`React Native` `Swift` `Bun` `Golang`
+`React Native` `Swift` `Bun` `Rust`
 
 ---
 
 ### Off the clock
 
 ⚽ **Borussia Dortmund** - always believing, usually suffering  
-🏎️ **F1** - strategy nerd, lap time nerd, everything nerd  
+🏎️ **F1 & Sim Racing** - strategy nerd, lap time nerd, everything nerd  
 🎮 **Game dev** - tinkering with my own games when I'm not playing them  
-🐹 **Golang** - hobby language, slowly taking over my weekends  
+🦀 **Golang** - hobby language, slowly taking over my weekends  
 ☕ **Coffee** - non-negotiable
 
 ---
