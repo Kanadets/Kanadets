@@ -4,7 +4,7 @@
 const dmitrii = {
   role: "Full Stack Engineer",
   location: "Vancouver, BC 🍁",
-  stack: ["React", "TypeScript", "Node.js", "Python", "GCP"],
+  stack: ["React", "TypeScript", "Node.js", "Python", "Rust"],
   currentlyBuilding: "micro frontends & scalable web apps",
   lookingFor: "hard problems with real ownership",
 };
